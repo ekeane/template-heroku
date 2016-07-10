@@ -1,0 +1,4 @@
+Notes:
+
+- moved index.html into main.html on client side, note no need for html as meteor already provides this.
+- style sheets moved to client.
