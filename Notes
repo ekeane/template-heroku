@@ -2,11 +2,6 @@ Notes:
 
 - moved index.html into main.html on client side, note no need for html as meteor already provides this.
 - style sheets moved to client.
--Keep:
-assets/css/bootstrap.min.css"
-assets/css/oneui.css"
-assets/css/themes
-assets/img/photos
-assets/img/favicons
-assets/img/avatars
+- script tags moved to main.js
+
 
